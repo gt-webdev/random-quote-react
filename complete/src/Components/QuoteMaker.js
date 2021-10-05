@@ -23,7 +23,7 @@ export const QuoteMaker = () => {
         <div className="makerField">
             <div className="textField">
                 <div id="quote">
-                    {quote}
+                    "{quote}"
                 </div>
                 <div id="author">
                     {author}
