@@ -1,2 +1,2 @@
-# random-quote-starter
+# random-quote-react
 The starter code for the React random quote generator tutorial
