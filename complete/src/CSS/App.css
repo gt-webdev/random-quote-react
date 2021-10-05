@@ -1,3 +1,13 @@
+:root {
+  background-color: blanchedalmond;
+}
+
+#quoteBox {
+  padding-top: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
 .App {
   text-align: center;
 }
